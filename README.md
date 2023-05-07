@@ -2,7 +2,7 @@
 
 A mechanical engineer who loves programming!
  I'm currently learning Dart and Flutter, and I'm excited to share my future projects with you. Stay tuned for more updates!
- Also, you can check my past UI/UX prjects from here '&larr;' [My Website](https://www.behance.net/moustafahesham1)
+ Also, you can check my past UI/UX prjects from here '&rarr;' [My Behance](https://www.behance.net/moustafahesham1)
  
  #### **Languages and Tools:**
 * <img src="https://user-images.githubusercontent.com/113013570/231018664-d6a7bcb7-2419-43d0-9dbf-6fcdb244595f.png" alt="GitHub Logo" width="50" height="16">
