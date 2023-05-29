@@ -7,8 +7,8 @@ A mechanical engineer who loves programming!
  #### **Languages and Tools:**
 * <img src="https://user-images.githubusercontent.com/113013570/231018664-d6a7bcb7-2419-43d0-9dbf-6fcdb244595f.png" alt="GitHub Logo" width="50" height="16">
 * <img src="https://user-images.githubusercontent.com/113013570/231018952-1e4dbb69-c32d-4c98-ba3d-aa71d6925550.png" alt="GitHub Logo" width="50" height="16">
-* <img src="https://github.com/moustafa-hesham/moustafa-hesham/assets/113013570/f43830ca-6d96-435e-bdf1-72523294ae77" alt="GitHub Logo" width="50" height="16">
-* <img src="https://github.com/moustafa-hesham/moustafa-hesham/assets/113013570/14b90435-17c9-4ad3-a2ac-63c800d83655" alt="GitHub Logo" width="50" height="16">
+* <img src="https://github.com/moustafa-hesham/moustafa-hesham/assets/113013570/f43830ca-6d96-435e-bdf1-72523294ae77" alt="GitHub Logo" width="80" height="16">
+* <img src="https://github.com/moustafa-hesham/moustafa-hesham/assets/113013570/14b90435-17c9-4ad3-a2ac-63c800d83655" alt="GitHub Logo" width="80" height="16">
 * <img src="https://user-images.githubusercontent.com/113013570/231019066-ef8ce37f-481c-4f4c-89db-a0e50d9aed64.png" alt="GitHub Logo" width="16" height="16">
 * <img src="https://user-images.githubusercontent.com/113013570/231019150-ffa09bff-183a-4865-8f81-201730364483.svg" width="16" height="16">
 
