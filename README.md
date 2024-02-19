@@ -2,10 +2,8 @@
 
 A mechanical engineer who loves programming!
  I'm currently learning Javascript, and I'm excited to share my future projects with you. Stay tuned for more updates!
- <br> Also, you can check my past UI/UX prjects from here &rarr; [My Behance](https://www.behance.net/moustafahesham1)
  
  #### **Languages and Tools:**
-
 
 * <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="GitHub Logo" width="16" height="16">  &nbsp; &nbsp; &nbsp; * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="GitHub Logo" width="16" height="16">
 
