@@ -20,6 +20,8 @@ A mechanical engineer who loves programming!
 <h2> Latest Work </h2>
 <ul>
  <li><a href="https://moustafa-hesham.github.io/Template-1--Leon---HTML-CSS-/">Template One</a></li>
+ <li><a href="https://moustafa-hesham.github.io/Template-2-HTML-CSS/">Template Two</a></li>
+
 </ul>
 
 
