@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Moustafa Hesham, <sub>they call me </sub> Mitch
+### Hi there 👋, I'm Moustafa Hesham ( Mitch )
 
 A mechanical engineer who loves programming! <br>
  I'm working as a Web Developer. Stay tuned for more updates!
