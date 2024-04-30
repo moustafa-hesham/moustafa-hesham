@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Moustafa Hesham.
 
 A mechanical engineer who loves programming!
- I'm currently learning Javascript, and I'm excited to share my future projects with you. Stay tuned for more updates!
+ I'm working as a Web Developer. Stay tuned for more updates!
  
  #### **Languages and Tools:**
 
