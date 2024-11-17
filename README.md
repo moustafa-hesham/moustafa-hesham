@@ -27,7 +27,7 @@ A mechanical engineer who loves programming! <br>
  <h2>React Websites</h2>
 
  <li><a href="https://agency-website-priv.vercel.app/">Agency Website</a></li>
- <li><a href=" https://locally-website.vercel.app/">E-Commerce Website</a></li>
+ <li><a href="https://locally-website.vercel.app/">E-Commerce Website</a></li>
 
 
 </ul>
